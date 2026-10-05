@@ -1,0 +1,7 @@
+model,pr_auc,roc_auc,threshold,precision,recall,f2
+XGBoost + SMOTE,0.872,0.9816,0.823,0.8876,0.8061,0.8212
+Random Forest,0.8667,0.9572,0.165,0.7679,0.8776,0.8532
+Random Forest + SMOTE,0.8593,0.9706,0.46,0.8723,0.8367,0.8436
+XGBoost,0.8485,0.9655,0.0841,0.8696,0.8163,0.8264
+Logistic Regression,0.741,0.9598,0.0366,0.6074,0.8367,0.778
+Logistic Regression + SMOTE,0.7176,0.9723,1.0,0.8163,0.8163,0.8163
